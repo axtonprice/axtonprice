@@ -1,4 +1,4 @@
-## Hey there, my name is Axton! 👋
+# Hey there, my name is Axton! 👋
 #### An aspiring and upcoming developer & student
 ![An aspiring and upcoming developer & student](https://cdn.discordapp.com/attachments/765690365256007692/917549627711062086/Hello_Im_axtonprice__nAn_aspiring_developer.png)
 
