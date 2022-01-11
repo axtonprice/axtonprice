@@ -4,13 +4,13 @@
 
 **About Me**
 
-I'm a 16 year old Computer Science student based in the United Kingdom, but originally from Iceland. I enjoy developing small Bootstrap/PHP projects, game server projects, or generally anything programming or development related.
+I'm a 16 year old Computer Science student from the United Kingdom, but was born in Iceland. I enjoy developing small Bootstrap/PHP projects, game server projects, or generally anything computing related.
 
 Skills: PHP / HTML / CSS /  Javascript (DiscordJS)
 
 - 🔭 I’m currently working on Intrevise, a revision site for UK GCSE CompSci students. 
 - 🌱 I’m currently learning computer science in college. 
-- 😄 Pronouns: He/Him/They. 
+- 😄 Pronouns: He/Him. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/axtonprice)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCQ33WJtEvMq4g6M3g8foeQQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://axtonprice.com)  
@@ -21,4 +21,4 @@ Skills: PHP / HTML / CSS /  Javascript (DiscordJS)
 
 ![GitHub metrics](https://metrics.lecoq.io/axtonprice)  
 
-![Profile views](https://gpvc.arturio.dev/axtonprice)  
+![Profile views](https://gpvc.arturio.dev/axtonprice)
