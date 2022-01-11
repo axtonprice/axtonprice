@@ -21,4 +21,6 @@ Skills: PHP / HTML / CSS /  Javascript (DiscordJS)
 
 ![GitHub metrics](https://metrics.lecoq.io/axtonprice)  
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=axtonprice&repo=intrevise)](https://github.com/axtonprice/intrevise)
+
 ![Profile views](https://gpvc.arturio.dev/axtonprice)
