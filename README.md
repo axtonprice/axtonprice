@@ -4,7 +4,7 @@
 
 **About Me**
 
-Skills: PHP / HTML / CSS /  Javascript (NodeJS->DiscordJS)
+Skills: PHP / HTML / CSS /  Javascript (Discord API Library)
 
 - 🔭 I’m currently working on a studying software platform.
 - 🌱 I’m currently studying computer science in college. 
