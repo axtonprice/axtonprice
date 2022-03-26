@@ -1,3 +1,4 @@
+<img src="https://cdn.discordapp.com/attachments/765690365256007692/957335063299780698/image_1.png">
 # Hey there, my name is Axton! 👋
 #### A Computer Programming Enthusiast
 <img height="80px" src="https://discord.c99.nl/widget/theme-3/360832097495285761.png" />
