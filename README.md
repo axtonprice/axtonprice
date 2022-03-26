@@ -1,5 +1,4 @@
 # Hey there, my name is Axton! 👋
-![Banner](https://cdn.discordapp.com/attachments/765690365256007692/957335266656395304/banner.png)
 #### A Computer Programming Enthusiast
 <img height="80px" src="https://discord.c99.nl/widget/theme-3/360832097495285761.png" />
 
