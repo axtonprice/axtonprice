@@ -6,8 +6,8 @@
 
 Skills: PHP / HTML / CSS /  Javascript
 
-- 🔭 I’m currently working on a studying software platform.
-- 🌱 I’m currently studying computer science in college. 
+- 🖥️ I’m currently working on multiple experience based projects.
+- 📚 I’m currently studying advanced computer science.
 
 [<img src='https://pnggrid.com/wp-content/uploads/2021/07/White-YouTube-Logo-Transparent.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCQ33WJtEvMq4g6M3g8foeQQ)  [<img src='https://icon-library.com/images/globe-icon-white/globe-icon-white-8.jpg' alt='website' height='40'>](https://axtonprice.com)  [<img src='https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg' alt='website' height='32'>](https://discord.gg/dP3MuBATGc)  
 
