@@ -4,7 +4,7 @@
 
 **About Me**
 
-Skills: PHP / HTML / CSS /  Javascript
+Skills: PHP / HTML / CSS /  Javascript /  Python
 
 - 🖥️ I’m currently working on multiple experience based projects.
 - 📚 I’m currently studying advanced computer science.
