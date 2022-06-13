@@ -13,4 +13,4 @@ Skills: PHP / HTML / CSS /  Javascript /  Python
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axtonprice)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Profile views](https://gpvc.arturio.dev/axtonprice)
+![Profile views](https://profile-counter.glitch.me/axtonprice/count.svg)
