@@ -4,7 +4,7 @@
 
 **About Me**
 
-Skills: PHP / HTML / CSS /  Javascript /  Python
+Languages: PHP / HTML5 / CSS3 / JavaScript / Python
 
 - 📚 I’m currently learning new languages to integrate into my projects.
 - 🖥️ I’m currently working on a variety of projects.
