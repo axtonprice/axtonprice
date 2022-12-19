@@ -10,8 +10,11 @@ Languages: PHP / HTML5 / CSS3 / JavaScript / Python
 - 🖥️ I’m currently working on a variety of projects.
 - 🏫 I’m currently studying advanced computer science at college.
 
-[<img src='https://cdn.discordapp.com/attachments/765690365256007692/1015419482467991583/user.png' alt='Portfolio' height='40'>](https://axtonprice.me)  [<img src='https://cdn.discordapp.com/attachments/765690365256007692/1015419482719658064/globe.png' alt='Website' height='40'>](https://axtonprice.com)  [<img src='https://cdn.discordapp.com/attachments/765690365256007692/1015419482224738374/discord.png' alt='website' height='40'>](https://discord.gg/dP3MuBATGc)  
+<a href="https://github.com/axtonprice?tab=repositories">
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=axtonprice&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="axtonprice's github stats" />
+</a>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axtonprice)](https://github.com/anuraghazra/github-readme-stats) -->
+[<img src='https://img.icons8.com/plasticine/512/resume.png' alt='My Portfolio' height='40'>](https://axtonprice.me)[<img src='https://img.icons8.com/color/512/internet.png' alt='Organisation Website' height='40'>](https://axtonprice.com) 
+ [<img src='https://img.icons8.com/color/512/discord--v2.png' alt='Discord Server' height='40'>](https://discord.gg/dP3MuBATGc)
 
-![Profile views](https://profile-counter.glitch.me/axtonprice/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=axtonprice&color=brightgreen)
