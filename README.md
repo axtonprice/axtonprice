@@ -18,3 +18,5 @@ Languages: PHP / HTML5 / CSS3 / JavaScript / Python
  [<img src='https://img.icons8.com/color/512/discord--v2.png' alt='Discord Server' height='40'>](https://discord.gg/dP3MuBATGc)
 
 ![Profile views](https://komarev.com/ghpvc/?username=axtonprice&color=brightgreen)
+
+[![An image of @axtonprice's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/axtonprice)](https://holopin.io/@axtonprice)
