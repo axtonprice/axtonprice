@@ -6,9 +6,9 @@
 
 Languages: PHP / HTML5 / CSS3 / JavaScript / Python
 
-- 📚 I’m currently learning new languages to integrate into my projects.
-- 🖥️ I’m currently working on a variety of projects.
-- 🏫 I’m currently studying advanced computer science at college.
+- 📚 I’m actively learning new languages to integrate into my work.
+- 🖥️ I’m currently working on a variety of projects for @arizon-dev.
+- 🏫 I’m currently studying Computer Science at college.
 
 <a href="https://github.com/axtonprice?tab=repositories">
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=axtonprice&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="axtonprice's github stats" />
