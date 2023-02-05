@@ -19,4 +19,6 @@ Languages: PHP / HTML5 / CSS3 / JavaScript / Python
 
 ![Profile views](https://komarev.com/ghpvc/?username=axtonprice&color=brightgreen)
 
+<!--
 [![An image of @axtonprice's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/axtonprice)](https://holopin.io/@axtonprice)
+-->
