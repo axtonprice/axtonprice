@@ -1,4 +1,4 @@
-# Hey there, my name is Axton! 👋
+## Hey there, my name is Axton! 👋
 #### A Computer Programming Enthusiast
 <img height="80px" src="https://discord.c99.nl/widget/theme-3/360832097495285761.png" />
 
