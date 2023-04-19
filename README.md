@@ -23,5 +23,5 @@
 </a>
 
 # 💰 Support Donations
-![https://www.patreon.com/axtonprice/](https://img.shields.io/badge/Patreon-ee6352?style=for-the-badge&logo=patreon&logoColor=black) 
-![https://github.com/sponsors/axtonprice](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)
+[![Patreon](https://img.shields.io/badge/Patreon-ee6352?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/axtonprice/) 
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/axtonprice) 
