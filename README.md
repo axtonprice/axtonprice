@@ -5,7 +5,7 @@
 - :date: **18 years old** 📍**United Kingdom**
 - :computer: Software Developer :office: <a href="https://github.com/arizon-dev" target="_blank" title="Arizon Software">Arizon Software</a>
 
-I'm a software developer my skill set by learning new programming languages, which I apply in various personal and professional projects. These hands-on experiences not only contribute to the tech community but also complement my college studies in Computer Science.
+I'm a self-taught software and website developer, always exploring new languages, libraries, and frameworks to enhance my personal and professional projects. My projects also complement my college studies in Computer Science.
 
 ## 🌐 Socials
 Want to contact me? Email me at [axton@arizon.dev](mailto:axton@arizon.dev).
