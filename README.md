@@ -1,4 +1,4 @@
-<img width="600" src="https://github.com/axtonprice/axtonprice/assets/37771600/69512f03-0068-4c59-a0ec-1409f5c0e43b">
+<img width="400" src="https://github.com/axtonprice/axtonprice/assets/37771600/69512f03-0068-4c59-a0ec-1409f5c0e43b">
 
 # :space_invader: axtonprice
 
