@@ -19,7 +19,7 @@ Want to contact me? Email me at [axton@arizon.dev](mailto:axton@arizon.dev).
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-![Java](https://img.shields.io/badge/java-3670A0?style=flat&logo=oracle&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/oracle-3670A0?style=flat&logo=jar&logoColor=ffdd54) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
@@ -35,6 +35,8 @@ Want to contact me? Email me at [axton@arizon.dev](mailto:axton@arizon.dev).
   <img height="130px" src="https://github-profile-trophy.vercel.app/?username=axtonprice&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="axtonprice's github stats" />
 </a>
 
+<!--
 ## 💰 Support
 [![Patreon](https://img.shields.io/badge/Patreon-ee6352?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/axtonprice/) 
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/axtonprice) 
+-->
