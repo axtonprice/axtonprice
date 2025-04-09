@@ -4,6 +4,7 @@
 
 - :date: **19 years old** 📍 **United Kingdom**
 - :computer: Software Developer :office: <a href="https://github.com/arizon-dev" target="_blank" title="Arizon Software">Arizon Software</a>
+- 🖥️ Network Technician :school: 
 
 I'm a self-taught software and website developer, always exploring new languages, libraries, and frameworks to enhance my personal and professional projects. My projects also complement my college studies in Computer Science. 
 I am currently working as a Network and Security Technician, and intend to develop my career qualifications in cyber security and networking.
