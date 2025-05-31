@@ -16,9 +16,12 @@ Want to contact me? Email me at [axton@arizon.dev](mailto:axton@arizon.dev).
 ## 💻 Techstack
 ![Cisco](https://img.shields.io/badge/cisco-%231572B6.svg?style=flat&logo=cisco&logoColor=white&color=1BA0D7) 
 ![HP](https://img.shields.io/badge/HP-%231572B6.svg?style=flat&logo=hp&logoColor=white&color=0096D6) 
+
+![NGINX](https://img.shields.io/badge/NGINX-%231572B6.svg?style=flat&logo=NGINX&logoColor=white&color=009639) 
+![Apache](https://img.shields.io/badge/Apache-%231572B6.svg?style=flat&logo=Apache&logoColor=white&color=009639) 
 ![raspberrypi](https://img.shields.io/badge/raspberrypi-%E95420.svg?style=flat&logo=raspberrypi&logoColor=white&color=A22846) 
 ![ubuntu](https://img.shields.io/badge/ubuntu-%231572B6.svg?style=flat&logo=ubuntu&logoColor=white&color=E95420) 
-![NGINX](https://img.shields.io/badge/NGINX-%231572B6.svg?style=flat&logo=NGINX&logoColor=white&color=009639) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -28,7 +31,6 @@ Want to contact me? Email me at [axton@arizon.dev](mailto:axton@arizon.dev).
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 📊 Stats
 <a href="https://github.com/axtonprice?tab=repositories">
