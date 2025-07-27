@@ -6,7 +6,7 @@
 - 🖥️ Network Technician :school: 
 
 I'm a self-taught software and website developer, always exploring new languages, libraries, and frameworks to enhance my personal and professional projects. My projects also complement my college studies in Computer Science. 
-I am currently working as a Network and Security Technician, and intend to develop my career qualifications in cyber security and networking.
+I am currently working as a Network and Security Technician, and intend to develop my career qualifications in cyber security and networking alongside my passion for software.
 
 ## 🌐 Socials
 Want to contact me? Email me at [axton@arizon.dev](mailto:axton@arizon.dev).
