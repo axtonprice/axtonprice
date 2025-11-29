@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F7F7F7&background=7E7E7E00&vCenter=true&width=438&height=49&lines=axtonprice)](https://git.io/typing-svg)
 - :date: **19 years old** 📍 **United Kingdom**
-- :computer: Software Developer :office: <a href="https://github.com/arizon-dev" target="_blank" title="Arizon Software">Arizon Software</a>
-- 🖥️ Network Technician :school: 
+- :computer: Software Developer @ <a href="https://github.com/arizon-dev" target="_blank" title="Arizon Software">Arizon Software</a>
+- :computer: Network Technician
 
 I'm a self-taught software and website developer, always exploring new languages, libraries, and frameworks to enhance my personal and professional projects. My projects also complement my college studies in Computer Science. 
-I am currently working as a Network and Security Technician, and intend to develop my career qualifications in cyber security and networking alongside my passion for software.
+I am currently working as a network and security technician, and intend to develop my career qualifications in cyber security and networking alongside my passion for software.
 
 ## 🌐 Socials
 Want to contact me? Email me at [axton@arizon.dev](mailto:axton@arizon.dev).
@@ -31,17 +31,16 @@ Want to contact me? Email me at [axton@arizon.dev](mailto:axton@arizon.dev).
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 
 ## 📊 Stats
-<a href="https://github.com/axtonprice?tab=repositories">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=axtonprice&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="axtonprice's github stats" />
-</a>
+![Metrics](https://metrics.lecoq.io/axtonprice?template=classic&base.header=0&gists=1&lines=1)
 
 ## 🏆 Trophies
 <a href="https://github.com/axtonprice?tab=achievements">
   <img height="130px" src="https://github-profile-trophy.vercel.app/?username=axtonprice&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="axtonprice's github stats" />
 </a>
 
-<!--
+
 ## 💰 Support
 [![Patreon](https://img.shields.io/badge/Patreon-ee6352?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/axtonprice/) 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/axtonprice)
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/axtonprice) 
--->
+
