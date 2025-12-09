@@ -33,10 +33,12 @@ Want to contact me? Email me at [axton@arizon.dev](mailto:axton@arizon.dev).
 ## 📊 Stats
 ![Metrics](https://metrics.lecoq.io/axtonprice?template=classic&base.header=0&gists=1&lines=1)
 
+<!-- 
 ## 🏆 Trophies
 <a href="https://github.com/axtonprice?tab=achievements">
   <img height="130px" src="https://github-profile-trophy.vercel.app/?username=axtonprice&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="axtonprice's github stats" />
 </a>
+-->
 
 ## 💰 Support
 [![Patreon](https://img.shields.io/badge/Patreon-ee6352?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/axtonprice/) 
