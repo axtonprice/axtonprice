@@ -38,7 +38,6 @@ Want to contact me? Email me at [axton@arizon.dev](mailto:axton@arizon.dev).
   <img height="130px" src="https://github-profile-trophy.vercel.app/?username=axtonprice&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="axtonprice's github stats" />
 </a>
 
-
 ## 💰 Support
 [![Patreon](https://img.shields.io/badge/Patreon-ee6352?style=for-the-badge&logo=patreon&logoColor=black)](https://www.patreon.com/axtonprice/) 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/axtonprice)
