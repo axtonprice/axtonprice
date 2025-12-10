@@ -1,7 +1,7 @@
 <!-- <img width="400" src="https://github.com/axtonprice/axtonprice/assets/37771600/69512f03-0068-4c59-a0ec-1409f5c0e43b"> -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F7F7F7&background=7E7E7E00&vCenter=true&width=438&height=49&lines=axtonprice)](https://git.io/typing-svg)
-- :date: **19 years old** 📍 **United Kingdom**
+- :date: **20 years old** 📍 **United Kingdom**
 - :computer: Software Developer @ <a href="https://github.com/arizon-dev" target="_blank" title="Arizon Software">Arizon Software</a>
 - :computer: Network Technician
 
